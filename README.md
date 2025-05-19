@@ -1,19 +1,8 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    
 # Hey, I'm **Steve Ryherd** 👋
 
-Automotive Sales Consultant at **[Airport Toyota](http://www.airtoy.com/) (Dayton, OH)**.  
-Formerly: AlternateSolutions ➔ LexisNexis.  
-I automate the repetitive bits of the car-buying workflow and build browser toys after hours.
-
-  </div>
-  <div>
-    <img src="assets/steve-green-doodle.png"
-         width="220"
-         alt="Steve wrenching on code under the hood of a green convertible">
-  </div>
-</div>
+| About Me | &nbsp; |
+|----------|--------|
+| Automotive Sales Consultant at **[Airport Toyota](http://www.airtoy.com/) (Dayton, OH)**.<br>Formerly: AlternateSolutions ➔ LexisNexis.<br>I automate the repetitive bits of the car-buying workflow and build browser toys after hours. | <img src="assets/steve-green-doodle.png" width="220" alt="Steve wrenching on code under the hood of a green convertible"> |
 
 ---
 
