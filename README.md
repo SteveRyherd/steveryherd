@@ -6,9 +6,9 @@
 
 ---
 
-## Connect
+## 🌐 Connect With Me
 
-[🌐 Website](https://steveryherd.com) • [📘 Facebook](https://facebook.com/steve.ryherd) • [📸 Instagram](https://instagram.com/steveryherd) • [✉️ Email](mailto:steve@steveryherd.com) • [💼 LinkedIn](https://www.linkedin.com/in/steveryherd)
+[🏠 Website](https://steveryherd.com) • [📘 Facebook](https://facebook.com/steve.ryherd) • [📸 Instagram](https://instagram.com/steveryherd) • [✉️ Email](mailto:steve@steveryherd.com) • [💼 LinkedIn](https://www.linkedin.com/in/steveryherd)
 
 ---
 
